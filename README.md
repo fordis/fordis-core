@@ -1,0 +1,2 @@
+# fordis-core
+Core module
